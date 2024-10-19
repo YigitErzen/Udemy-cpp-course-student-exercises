@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//Code to calculate net salary
 int main()
 {
 	int basicsalary,allowance,deduction,netsalary;
